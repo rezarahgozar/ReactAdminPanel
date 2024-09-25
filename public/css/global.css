@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Lato-Bold";
+  src: url(../font/Lato-Bold.ttf);
+}
+
+.font-sans {
+  font-family: "Lato-Bold", sans-serif;
+}
+
+@media (min-width: 1140px) {
+  .xl\:ml-80 {
+    margin-left: 20rem;
+  }
+
+  .xl\:mr-80 {
+    margin-right: 20rem;
+  }
+}
